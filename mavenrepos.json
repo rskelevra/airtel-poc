@@ -1,8 +1,8 @@
 {
-  "MINIO_ENDPOINT": "",
-  "MINIO_ACCESS_KEY": "",
-  "MINIO_SECRET_KEY": "",
-  "MINIO_BUCKET": "",
-  "MINIO_DEST_PATH": "",
-  "MINIO_SOURCE_PATH": ""
+  "MINIO_ENDPOINT": "http://100.65.224.28:9000",
+  "MINIO_ACCESS_KEY": "minioadmin",
+  "MINIO_SECRET_KEY": "minioadmin123",
+  "MINIO_BUCKET": "airtel",
+  "MINIO_DEST_PATH": "airtel/maven",
+  "MINIO_SOURCE_PATH": "airtel/maven"
 }
