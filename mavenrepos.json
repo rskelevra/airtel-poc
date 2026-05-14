@@ -4,5 +4,5 @@
   "MINIO_SECRET_KEY": "minioadmin123",
   "MINIO_BUCKET": "airtel",
   "MINIO_DEST_PATH": "airtel/maven",
-  "MINIO_SOURCE_PATH": "airtel/maven"
+  "MINIO_SOURCE_PATH": "target"
 }
